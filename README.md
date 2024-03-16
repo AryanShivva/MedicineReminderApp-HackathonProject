@@ -14,6 +14,12 @@ User-Friendly UI 🌈: The user interface is crafted with dynamically updating R
 Database : used SQLite 
 Language : built in Java
 
+![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/9fdae9e6-45e9-4478-952d-67a4cc30c1f3)
+![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/7f4625c9-f3b2-47d0-b968-05a5c36e712a)
+![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/0cb90ba2-f3f9-48e5-9b56-4631a6d24ac1)
+![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/5e49821b-9c8d-44fc-9c1e-d39d9629e824)
+
+
 
 https://github.com/AryanShivva/medicineReminder/assets/124916476/472a036e-c315-4986-abaa-1079f530d182
 
