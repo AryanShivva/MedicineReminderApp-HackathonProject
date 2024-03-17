@@ -1,3 +1,5 @@
+MEDICINE REMINDER APPLICATION
+
 Key Features:
 Medication Reminders 🕒: Enable users to set personalized alerts for each medication, ensuring timely intake and adherence to prescribed schedules. Never miss a dose again!
 
