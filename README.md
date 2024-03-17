@@ -14,11 +14,14 @@ User-Friendly UI 🌈: The user interface is crafted with dynamically updating R
 Database : used SQLite 
 Language : built in Java
 
-![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/9fdae9e6-45e9-4478-952d-67a4cc30c1f3)
-![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/7f4625c9-f3b2-47d0-b968-05a5c36e712a)
-![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/0cb90ba2-f3f9-48e5-9b56-4631a6d24ac1)
-![image](https://github.com/AryanShivva/medicineReminder/assets/124916476/5e49821b-9c8d-44fc-9c1e-d39d9629e824)
 
+<img width="1470" alt="Screenshot 2024-02-13 at 1 25 27 AM" src="https://github.com/AryanShivva/medicineReminder/assets/124916476/288fbcc7-803e-4883-9602-012beff4239a">
+
+<img width="361" alt="Screenshot 2024-02-13 at 1 26 53 AM" src="https://github.com/AryanShivva/medicineReminder/assets/124916476/7f0f226b-49fb-488e-9525-556f70c84882">
+<img width="378" alt="Screenshot 2024-02-13 at 1 26 04 AM" src="https://github.com/AryanShivva/medicineReminder/assets/124916476/33d1b4c3-8a66-49f0-ac14-e5734f80c501">
+
+
+<img width="363" alt="Screenshot 2024-02-13 at 1 28 10 AM" src="https://github.com/AryanShivva/medicineReminder/assets/124916476/357afe51-66ea-4f4c-a71a-41b575237ef5">
 
 
 https://github.com/AryanShivva/medicineReminder/assets/124916476/472a036e-c315-4986-abaa-1079f530d182
